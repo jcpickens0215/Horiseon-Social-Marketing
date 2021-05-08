@@ -10,9 +10,6 @@ body {
     background-color: #d9dcd6;
 }
 
-
-/***** Style the page's Header */
-
 /* The old version used a <div> tag with the class "header".
 I changed the <div> into a <header> and altered this CSS to match */
 header {
@@ -46,8 +43,6 @@ header a {
     color: #ffffff;
     text-decoration: none;
 }
-/***** End of Header styling */
-
 
 /* Set paragraph text size to 16 pixels */
 p {
@@ -76,9 +71,6 @@ p {
     margin-left: 25px;
 }
 
-
-/***** Main Content styling */
-
 .content {
     width: 75%;
     display: inline-block;
@@ -105,10 +97,6 @@ class "content-block" */
     margin-bottom: 20px;
     font-size: 36px;
 }
-/***** End of Main Content styling */
-
-
-/***** Benefits styling */
 
 .benefits {
     margin-right: 20px;
@@ -139,10 +127,6 @@ class "benefits-block" */
     margin: 10px auto;
     max-width: 150px;
 }
-/***** End of Benefits styling */
-
-
-/***** Footer Styling */
 
 /* The old version simply used a <div> when <footer> was more appropriate. I
 made the necessary changes */
@@ -156,4 +140,3 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-/***** End of Footer styling */
