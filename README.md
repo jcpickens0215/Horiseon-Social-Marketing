@@ -9,7 +9,3 @@ As well as using semantic elements, I decided to clean up the CSS code, because 
 
 ## Screenshot
 ![Homepage of Horiseon Social Marketing Services](./assets/images/Readme-Screenshot.png)
-
-## License
-This repository is licensed under CC-BY-SA (Creative Commons-Attribution-Sharealike)
-
